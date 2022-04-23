@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BilalMohammadAfzaf
+- 👋 Hi, I’m @BilalMohammadAfzal
 - 👀 I’m interested in software developement and data science
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
